@@ -3,6 +3,11 @@
 **Date:** November 6, 2025  
 **Purpose:** Knowledge base for AI tool assisting with academic website information architecture planning  
 **Target Audience:** Student employee designers, web professionals in higher education
+**Author:** Doug Worsham 
+**Co-Author - Research Synthesis & Technical Writing:** Claude (Anthropic)  
+**Date:** November 6, 2025
+
+**Methodology Note:** This report was prepared through an iterative human-AI collaboration. Research compilation, synthesis, and initial drafting were conducted with Claude (Anthropic).
 
 ---
 
