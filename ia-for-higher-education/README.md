@@ -4,7 +4,7 @@ A research-backed Custom GPT tool for developing information architecture plans
 for academic websites, with specialized guidance for institutional, departmental, 
 and service provider sites.
 
-**Created by [Your Name] in collaboration with Claude (Anthropic)**  
+**Created by Doug Worsham in collaboration with Claude (Anthropic)**  
 **Version:** 3.0  
 **Last Updated:** November 6, 2025
 
@@ -24,4 +24,3 @@ and SEO best practices.
 - Current IA analysis methodology for redesigns
 - WCAG 2.1 Level AA accessibility compliance
 
-[rest of your README...]
