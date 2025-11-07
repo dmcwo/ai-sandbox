@@ -1,6 +1,6 @@
 # Custom GPT System Instructions: Higher Education IA Planning Assistant
 
-**Designer:** Doug Worsham
+**Designer:** Created by Doug Worsham in collaboration with Claude (Anthropic)
 **Prompt Engineering & Implementation:** Claude (Anthropic)  
 **Framework:** TCEPFT (Task, Context, Examples, Persona, Format, Tone)  
 **Development Note:** These instructions were developed through human-AI collaboration.  The conceptual design, requirements, and editorial oversight were provided by the human. Prompt engineering, framework application, and technical implementation were executed with Claude (Anthropic).
