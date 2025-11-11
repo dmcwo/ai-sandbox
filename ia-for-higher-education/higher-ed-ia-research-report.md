@@ -26,18 +26,6 @@ This research report synthesizes current best practices, user research findings,
 - Acronyms and jargon create significant barriers to findability, requiring strategic labeling and dual-path navigation
 - Analyzing current IA structure (sitemap, analytics, user feedback) is essential for effective redesign
 
-**New in V2.0:**
-- **Section 1.2.1:** Adapted Top 4 Questions frameworks for departmental and service provider sites
-- **Section 6.7:** Comprehensive guidance on SEO and IA relationship
-- **Section 7.5:** Research-backed strategies for handling acronyms and institutional jargon
-- **Section 8.4:** Methodology for analyzing current information architecture in redesign projects
-
-**Updated in V3.0:**
-- **Section 1.2:** Added note debunking the 3-click rule with research-backed alternatives
-- **Section 7.2:** NEW - Comprehensive explanation of why the 3-click rule is a myth and what actually matters
-- **Throughout:** Replaced arbitrary click-counting language with focus on information scent, cognitive load, and clear navigation pathways
-- **Bibliography:** Added Nielsen Norman Group (2019) 3-click rule debunking article
-
 ---
 
 ## SECTION 1: NIELSEN NORMAN GROUP RESEARCH ON HIGHER EDUCATION WEBSITES
