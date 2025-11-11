@@ -2064,6 +2064,11 @@ Proposes the "5 A's + 2 C's" formula for higher education navigation. Explains w
 
 *Used for:* Section 2.4 (topic-based IA solution), Section 6.2 (navigation structure)
 
+**Laubheimer, P. (2018, January 16). Audience-based navigation: 5 reasons to avoid it. Nielsen Norman Group. https://www.nngroup.com/articles/audience-based-navigation/**
+
+This article presents Nielsen Norman Group's research-based analysis of audience-based navigation, documenting five specific usability problems: difficulty with self-identification, ambiguity about whether content is "for" or "about" an audience, disruption of task-focused mindset, user anxiety about incomplete information, and content duplication issues. Used extensively to document the specific cognitive challenges audience-based navigation creates and to provide evidence-based mitigation strategies including making categories mutually exclusive, using clear "for" language, and prioritizing topic-based navigation. Article includes concrete examples from university websites and B2B contexts showing both problematic implementations and effective solutions.
+*Used for:* Section 2.4 (topic-based IA solution), Section 6.2 (navigation structure)
+
 **U.S. Department of Justice. (2024). *ADA Title II regulations: Web accessibility requirements for state and local governments.* Federal Register.**
 
 Final ADA Title II regulations published April 24, 2024, establishing WCAG 2.1 Level AA compliance requirements for public colleges and universities with specific deadlines (2026-2027).
